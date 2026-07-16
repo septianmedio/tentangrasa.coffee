@@ -529,9 +529,9 @@ footer .credit a {
   .navbar .navbar-nav {
     position: absolute;
     top: 100%;
-    right: -120%;
+    right: -150%;
     background-color: #f9f3ee;
-    width: 52rem;
+    width: 30rem;
     height: 100vh; 
     transition: right 0.3s ease-in-out;
     text-align: center;
